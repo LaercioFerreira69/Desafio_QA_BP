@@ -41,4 +41,4 @@
 	      }]
 	      }
 	      """
-	 Then quando faço um GET localhost:8080/{ddd}/{numero} o usuário criado é retornado
+	 Then quando faço um GET localhost:8080/{ddd}/{numero} o usuário criado né retornado
